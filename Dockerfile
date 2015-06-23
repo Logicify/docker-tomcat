@@ -1,4 +1,4 @@
-FROM corvis/java8
+FROM logicify/java8
 
 ENV TOMCAT_VERSION 8.0.23
 
